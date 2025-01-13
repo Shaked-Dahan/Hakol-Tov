@@ -10,6 +10,9 @@ The application includes user and admin access, leaderboards, and thresholds for
 
 ---
 
+## Contributors
+- Shaked Dahan, Mai Margunato, Shir Frank, Tom Zemer, Ilana Ulanovski and Ofri Yacoby.
+
 ## Features
 - **User Login**: Secure access for users and admins with individual thresholds.
 - **Play Games**: Run any of the three mini-games directly from the application.
